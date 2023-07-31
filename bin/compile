@@ -4,6 +4,6 @@ BUILD_DIR=$1
 
 mkdir -p "$BUILD_DIR/bin/"
 
-curl --silent --max-time 60 https://dl.impartsecurity.net/artifacts/inspector/0.9.0/inspector-amd64-linux --output "$BUILD_DIR/bin/inspector"
+curl --silent --max-time 60 https://dl.impartsecurity.net/artifacts/inspector/0.10.0/inspector-amd64-linux --output "$BUILD_DIR/bin/inspector"
 
 echo '-----> impart-inspector-buildpack: Added inspector to app/bin'
