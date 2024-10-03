@@ -1,6 +1,12 @@
 
 # Changelog
 
+## [0.29.0] - 2024-10-02
+
+### Changed
+
+- Inspector `0.29.0` release
+
 ## [0.28.2] - 2024-08-30
 
 ### Changed
