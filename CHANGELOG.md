@@ -1,6 +1,12 @@
 
 # Changelog
 
+## [0.33.1] - 2025-02-13
+
+### Changed
+
+- Inspector `0.33.1` release
+
 ## [0.33.0] - 2025-02-12
 
 ### Changed
